@@ -1,5 +1,0 @@
-[submodule "modules/dhilt/hello-world-js"]
-	ignore = dirty
-	path = modules/dhilt/hello-world-js
-	url = /Users/filtercake/.modules/dhilt/hello-world-js
-	branch = master
